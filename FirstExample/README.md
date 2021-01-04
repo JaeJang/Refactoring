@@ -10,3 +10,4 @@ is that my changes will cause something to break inadvertently.
 - Change Function Declaration
 - Slide Statements
 - Split Loop
+- Replace Conditional with Polymorphism
